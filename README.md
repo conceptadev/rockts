@@ -1,7 +1,7 @@
 <!-- markdownlint-disable MD033 -->
 
 <p align="left">
-    <img src="https://raw.githubusercontent.com/conceptainc/rockts/master/logo.png"/>
+    <img src="https://raw.githubusercontent.com/conceptainc/rockts/master/logo.png" width="300px"/>
 </p>
 
 ### Rock solid foundation for Typescript projects
