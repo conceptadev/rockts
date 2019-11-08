@@ -4,7 +4,7 @@
     <img src="https://raw.githubusercontent.com/conceptainc/rockts/master/logo.png" width="300px"/>
 </p>
 
-### Rock solid foundation for Typescript projects
+## Rock solid foundation for Typescript projects
 
 This project aims to help quickly build an enterprise-level core for projects that share the same business rules across web, mobile, server and desktop.
 
